@@ -132,7 +132,7 @@ fun main() {
         }
     }
     
-    val i = getRandomInt()
+    getRandomInt()
 //sampleEnd
 }
 ```
@@ -156,7 +156,7 @@ fun main() {
         }
     }
     
-    val i = getRandomInt()
+    getRandomInt()
 //sampleEnd
 }
 ```
@@ -210,7 +210,7 @@ fun main() {
         }
     }
     
-    val i = getRandomInt()
+    getRandomInt()
 //sampleEnd
 }
 ```
